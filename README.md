@@ -1,7 +1,10 @@
-Assignment 2 – Object-Oriented Programming
-Description:
-This project demonstrates the basic principles of Object-Oriented Programming using a cultural domain.
-The system models artworks, artists and galleries as objects.
+Assignment 2 – OOP
+
+
+1. Instruction
+This project is a demonstration of basic Object-Oriented Programming principles using cultural objects.
+The main goal is to create a system where artworks, artists, and galleries are represented as objects, and their properties can be compared, searched, filtered, and sorted.
+The project also demonstrates how abstraction, encapsulation, inheritance, and polymorphism work together in practice.
 
 Implemented concepts:
 - Data abstraction using an abstract base class CulturalObject
