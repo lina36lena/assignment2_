@@ -1,5 +1,5 @@
 Assignment 2 – OOP
-1. Project Description
+1. Project Description:
 The system models three types of cultural objects:
 Artworks – with properties like title, year, and price.
 Artists – with properties like name, age, and fame status.
