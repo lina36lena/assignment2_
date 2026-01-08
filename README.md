@@ -1,7 +1,15 @@
 Assignment 2 – OOP
+1. Project Description
+The system models three types of cultural objects:
+Artworks – with properties like title, year, and price.
+Artists – with properties like name, age, and fame status.
+Galleries – with properties like name, visitors, and style.
+
+All objects are stored in a data pool (ArrayList), allowing unified operations on them.
+The Main class demonstrates creating objects, printing information, comparing objects by calculated scores, filtering, searching, and sorting.
 
 
-1. Instruction
+2. Instruction
 This project is a demonstration of basic Object-Oriented Programming principles using cultural objects.
 The main goal is to create a system where artworks, artists, and galleries are represented as objects, and their properties can be compared, searched, filtered, and sorted.
 The project also demonstrates how abstraction, encapsulation, inheritance, and polymorphism work together in practice.
@@ -22,13 +30,6 @@ Implemented concepts:
 - **Polymorphism:** The method `getScore()` is implemented differently for each class, but can be called in the same way on any object.
 
 
-Data Management
-All objects are stored in a single data pool (ArrayList<CulturalObject>), which allows unified processing.
-          The program can perform:
-Search (e.g., by name)
-Filter (e.g., score > 50)
-Sort (by score or importance)
-
 
 Demonstration in Main;
 Main.java creates multiple objects of different types.
@@ -38,6 +39,5 @@ Demonstrates filtering, searching, and sorting in a practical example.
 
 
 Project Goal
-
 The goal of this project is to demonstrate how OOP principles work together in practice, and how collections can be used to manage and process objects efficiently.
 It also shows how abstraction, inheritance, encapsulation, and polymorphism make the program organized, reusable, and easy to maintain
