@@ -38,6 +38,3 @@ Shows comparison of objects using their calculated score or popularity.
 Demonstrates filtering, searching, and sorting in a practical example.
 
 
-Project Goal
-The goal of this project is to demonstrate how OOP principles work together in practice, and how collections can be used to manage and process objects efficiently.
-It also shows how abstraction, inheritance, encapsulation, and polymorphism make the program organized, reusable, and easy to maintain
